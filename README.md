@@ -1,2 +1,2 @@
 # UGUI-FancyScrollViewEx
-在https://github.com/setchi/FancyScrollView基础上做的扩展,增加了易用性
+在 https://github.com/setchi/FancyScrollView 基础上做的扩展,增加了易用性
